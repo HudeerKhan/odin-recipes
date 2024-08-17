@@ -1,0 +1,18 @@
+* {
+  background-color: rgb(7, 62, 78);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+  color: orange;
+  text-align: center;
+}
+
+.list {
+  text-align: center;
+}
+.link {
+  text-decoration: none;
+  text-align: center;
+  color: orange;
+}
